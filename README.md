@@ -1,1 +1,2 @@
-# Jitpiwat_test_repository
+# Jitpiwat_test_repository  
+Test Merge conflicts
